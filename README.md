@@ -17,6 +17,8 @@ powerful  web browser prefferably chrome
 * CSS
 * JQuery
 * Javascript
+## known bugs
+ lengthy load time
 
 
 ## Support and contact details
