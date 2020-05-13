@@ -8,6 +8,7 @@ Delani-studio is a web application that illustrates what projects we do as a des
 
 
 ## Project live link
+https://bernardbrains.github.io/IP3/.
 
 
 ## Setup/Installation Requirements
