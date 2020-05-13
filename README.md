@@ -8,7 +8,9 @@ download and then unzip to start using the project
 https://bernardbrains.github.io/IP3/.
 
 
-## Setup/Installation Requirements
+## Installation Requirements
+
+powerful  web browser prefferably chrome
 
 ## Technologies Used
 * HTML
