@@ -1,0 +1,72 @@
+
+.welcomenote{
+    text-align: center;
+    color: white;
+}
+.para2{
+    color: white;
+    text-align: center;
+}
+.h1-2{
+    color: white;
+}
+.row0{
+    background-image: url('../assets/backgrounds/h_img.jpg');
+    background-size: cover;
+    height: 500px;
+}
+.row{
+    text-align: center;
+    color: black;
+}
+.row1{
+    background-image: url('../assets/backgrounds/s_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 340px;
+}
+.mouse{
+    margin-bottom: 200px;
+    margin-left: 50%;
+}
+h3{
+    text-align: center;
+    margin: 50px;
+}
+h5{
+    color: white;
+}
+.contain-f{
+    padding: 15px;
+    justify-content: space-between;
+}
+#contacts{
+    background-image: url('../assets/backgrounds/c_image.jpg');
+    margin:20px;
+    background-color: none;
+}
+.apps{
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+.inputform{
+    background: none;
+    opacity: 0.4;
+}
+.col{
+    align-content: center;
+    text-align: center;
+}
+footer{
+    align-content: center;
+}
+.foot-socials{
+    text-align: center;
+    padding-top: 3%;
+}
